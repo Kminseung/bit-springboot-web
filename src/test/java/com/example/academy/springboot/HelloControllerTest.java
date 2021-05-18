@@ -1,7 +1,7 @@
-package com.example.academy.springboot.web;
+package com.example.academy.springboot;
 
 //import com.example.web.springboot.config.auth.SecurityConfig;
-import com.example.academy.springboot.web.web.HelloController;
+import com.example.academy.springboot.web.HelloController;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
