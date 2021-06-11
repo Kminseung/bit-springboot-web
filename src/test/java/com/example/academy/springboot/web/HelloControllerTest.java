@@ -1,4 +1,4 @@
-package com.example.academy.springboot;
+package com.example.academy.springboot.web;
 
 //import com.example.web.springboot.config.auth.SecurityConfig;
 import com.example.academy.springboot.web.HelloController;
